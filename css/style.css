@@ -3,7 +3,9 @@
     padding: 0;
     margin: 0;
 }
-
+body {
+    background-image: url("../assets/images/bosco-shots-SlR66yjPsoI-unsplash.jpg");
+}
 .nav-bar {
     margin-bottom: 150px;
 }
