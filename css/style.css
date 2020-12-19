@@ -9,3 +9,8 @@ body {
 .nav-bar {
     margin-bottom: 150px;
 }
+
+main {
+    width: 85%;
+    margin: auto;
+}
