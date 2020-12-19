@@ -14,3 +14,7 @@ main {
     width: 85%;
     margin: auto;
 }
+
+div p {
+    font-size: 15px;
+}
