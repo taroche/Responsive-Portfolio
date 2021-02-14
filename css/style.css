@@ -13,3 +13,7 @@ body {
 div p {
     font-size: 15px;
 }
+
+div h1 {
+    text-align: center;
+}
